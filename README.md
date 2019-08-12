@@ -1,5 +1,6 @@
 # Lost & Found
 A web application that helps users find what they have lost. Project 3 for Full Stack Web Development Bootcamp.
+![lost-and-found](lstnfnd.PNG)
 
 ## Site
 
